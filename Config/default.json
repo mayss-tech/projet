@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://1hamhama_delivery:123campany456@cluster0.gklbr.mongodb.net/1hamhama_delivery?retryWrites=true&w=majority",
+    "secretOrKey": "secret"
+
+}
